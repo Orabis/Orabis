@@ -1,8 +1,9 @@
-- 👋 Salut ! Ici c'est @Orabis
-- 👀 j'adore la programmation et les jeux-vidéos.
-- 🌱 Je connais déjà certaines bases en arduino, Python, html, css. Je suis le plus à l'aise sur PHP, qui reste mon language préféré. 
-- 💞️ à l'Avenir j'aimerais approfondir le developpement web et avoir des débouchés dans ce domaine.
-- 📫 Si vous voulez me contacter, discord reste le plus simple : Orabis
+- 👋 Hey there! I'm @Orabis.
+- 👀 I'm passionate about programming, video games and music !
+- 🌱 I have some basic knowledge in Arduino, CSS, JavaScript, PHP, and SQL.
+- ❤️ Favorite Language: Python | Favorite Framework: Django, Vue.js
+- 💡 Looking to dive deeper into web development for future career prospects.
+- 📫 Feel free to reach out to me via Discord: Orabis
     
 <!---
 Orabis/Orabis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
